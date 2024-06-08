@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# MacOS files
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
+
+# Jest cache and coverage reports
+jest/
+coverage/
+
+# Miscellaneous
+.idea/
+*.swp
+*.bak
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
